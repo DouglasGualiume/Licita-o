@@ -1,0 +1,1 @@
+Aqui será geravo um arquivo de texto chamado COTAÇÃO aonde ficara salvo o local onde foi cotado o item e o custo do mesmo 
